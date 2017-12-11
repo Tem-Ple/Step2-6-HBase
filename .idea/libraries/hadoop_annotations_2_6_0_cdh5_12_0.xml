@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="hadoop-annotations-2.6.0-cdh5.12.0">
+    <CLASSES>
+      <root url="jar:///usr/lib/hadoop/hadoop-annotations-2.6.0-cdh5.12.0.jar!/" />
+      <root url="jar:///usr/lib/hadoop/hadoop-annotations.jar!/" />
+      <root url="jar:///usr/lib/hadoop/hadoop-auth-2.6.0-cdh5.12.0.jar!/" />
+      <root url="jar:///usr/lib/hadoop/hadoop-auth.jar!/" />
+      <root url="jar:///usr/lib/hadoop/hadoop-aws-2.6.0-cdh5.12.0.jar!/" />
+      <root url="jar:///usr/lib/hadoop/hadoop-aws.jar!/" />
+      <root url="jar:///usr/lib/hadoop/hadoop-azure-datalake-2.6.0-cdh5.12.0.jar!/" />
+      <root url="jar:///usr/lib/hadoop/hadoop-azure-datalake.jar!/" />
+      <root url="jar:///usr/lib/hadoop/hadoop-common-2.6.0-cdh5.12.0-tests.jar!/" />
+      <root url="jar:///usr/lib/hadoop/hadoop-common-2.6.0-cdh5.12.0.jar!/" />
+      <root url="jar:///usr/lib/hadoop/hadoop-common-tests.jar!/" />
+      <root url="jar:///usr/lib/hadoop/hadoop-common.jar!/" />
+      <root url="jar:///usr/lib/hadoop/hadoop-nfs-2.6.0-cdh5.12.0.jar!/" />
+      <root url="jar:///usr/lib/hadoop/hadoop-nfs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
