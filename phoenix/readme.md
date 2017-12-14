@@ -1,0 +1,1 @@
+通过sql访问hbase
